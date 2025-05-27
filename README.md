@@ -10,7 +10,7 @@ This table is designed to list tools along with their corresponding fields and l
 |------------|---------------|---------------------------------------------------|---------------------------------------------|
 | 1          |  GSAP         | WEB DEV  (for animations)                         | https://gsap.com/                           |
 | 2          |  GPRM         | GITHUB profile designing                          | https://gprm.itsvg.in/                      |
-| 3          |  Sea Art      | Image generator          |                        | https://www.seaart.ai/ai-tools/text2img?mcp_token=eyJwaWQiOjI3NDUwMjIsInNpZCI6MTM3NTY5NzU2MiwiYXgiOiIxNzgzODA4YWZiNTVhNDRmNTkyY2ZkODkwOWM5YTQ5ZSIsInRzIjoxNzQ2ODY5OTM2LCJleHAiOjE3NDkyODkxMzZ9.LQQ9RffUu0o3wW5k5bhxTfko6jRDr1v33hbUMEIws7Q
+| 3          |  Sea Art      | Image generator                                   | https://shorturl.at/lidmX
 | 4          |               |                 |                        |
 | 5          |               |                 |                        |
 | 6          |               |                 |                        |
