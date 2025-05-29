@@ -26,24 +26,24 @@ This table is designed to list tools along with their corresponding fields and l
 | 16         |  KALODATA             | WINNING PRODUCTS TO SELL ON SHOPIFY                |                        |
 | 17         |  CREATIFY             | AI GENERAYED VIDEO ADDS                |                        |
 | 18         |  ELEVENLABS             | AI GENERATED VOICE OVERS                 |                        |
-| 19         |               |                 |                        |
-| 20         |               |                 |                        |
-| 21         |               |                 |                        |
-| 22         |               |                 |                        |
-| 23         |               |                 |                        |
-| 24         |               |                 |                        |
-| 25         |               |                 |                        |
-| 26         |               |                 |                        |
-| 27         |               |                 |                        |
-| 28         |               |                 |                        |
-| 29         |               |                 |                        |
-| 30         |               |                 |                        |
-| 31         |               |                 |                        |
-| 32         |               |                 |                        |
-| 33         |               |                 |                        |
-| 34         |               |                 |                        |
-| 35         |               |                 |                        |
-| 36         |               |                 |                        |
+| 19         |  RUNWAY             | video generation                |                        |
+| 20         |  VENICE AI             |                 |                        |
+| 21         |  NOTION             |                 |                        |
+| 22         |  MIDJOURNEY             |                 |                        |
+| 23         |  LUMA             |                 |                        |
+| 24         |  UDIO             |                 |                        |
+| 25         |  SHOWREELZ             |                 |                        |
+| 26         |  KREA.AI             |                 |                        |
+| 27         |  UICOLORS.APP             |                 |                        |
+| 28         |  SOLVEEARN             |                 |                        |
+| 29         |  HEDRA             | image to talking                |                        |
+| 30         |  HEYGEN             | real video to clone                |                        |
+| 31         |  HIGGSFIELD             |  image to motion              |                        |
+| 32         |  KLING AI            |  image to video               |                        |
+| 33         |  HUGGING FACE             |                 |                        |
+| 34         |  COSMOS             |                 |                        |
+| 35         |  SAVEE IT             |                 |                        |
+| 36         |  AWWWARDS             |                 |                        |
 | 37         |               |                 |                        |
 | 38         |               |                 |                        |
 | 39         |               |                 |                        |
