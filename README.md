@@ -52,9 +52,11 @@ This table is designed to list tools along with their corresponding fields and l
 | 42         |  CODEDEX             |                 |                        |
 | 43         |  REZI.AI             |                 |                        |
 | 44         |  INTERVIEW BIT             |                 |                        |
-| 45         |               |                 |                        |
-| 46         |               |                 |                        |
-| 47         |               |                 |                        |
-| 48         |               |                 |                        |
-| 49         |               |                 |                        |
-| 50         |               |                 |                        |
+| 45         |  GOOGLE AI STUDIO             |                 |                        |
+| 46         |  PENTEST GPT             |                 |                        |
+| 47         |  TLDRAW             |                 |                        |
+| 48         |  PIKA LAB             |                 |                        |
+| 49         |  OPENMAGIC             |                 |                        |
+| 50         |  VIDEO STUDIO             |                 |                        |
+MANYCHAT
+REVE
