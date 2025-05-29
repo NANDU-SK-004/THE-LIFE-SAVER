@@ -60,3 +60,7 @@ This table is designed to list tools along with their corresponding fields and l
 | 50         |  VIDEO STUDIO             |                 |                        |
 MANYCHAT
 REVE
+APPLY MY INTERNSHIPS
+REPLIT
+GOOGLE IMAGE FX
+BESTFREEAIWEBSITES
