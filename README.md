@@ -44,14 +44,14 @@ This table is designed to list tools along with their corresponding fields and l
 | 34         |  COSMOS             |                 |                        |
 | 35         |  SAVEE IT             |                 |                        |
 | 36         |  AWWWARDS             |                 |                        |
-| 37         |               |                 |                        |
-| 38         |               |                 |                        |
-| 39         |               |                 |                        |
-| 40         |               |                 |                        |
-| 41         |               |                 |                        |
-| 42         |               |                 |                        |
-| 43         |               |                 |                        |
-| 44         |               |                 |                        |
+| 37         |  OMNIHUMAN             |                 |                        |
+| 38         |  PIGMENT             |                 |                        |
+| 39         |  CREATSY             |                 |                        |
+| 40         |  HTTPSTER             |                 |                        |
+| 41         |  FONTPAIR             |                 |                        |
+| 42         |  CODEDEX             |                 |                        |
+| 43         |  REZI.AI             |                 |                        |
+| 44         |  INTERVIEW BIT             |                 |                        |
 | 45         |               |                 |                        |
 | 46         |               |                 |                        |
 | 47         |               |                 |                        |
