@@ -11,21 +11,21 @@ This table is designed to list tools along with their corresponding fields and l
 | 1          |  GSAP         | WEB DEV  (for animations)                         | https://gsap.com/                            |
 | 2          |  GPRM         | GITHUB profile designing                          | https://gprm.itsvg.in/                       |
 | 3          |  Sea Art      | Image generator                                   | https://shorturl.at/lidmX                    |
-| 4          |  Spline       |3d elements for websites                           | https://spline.design                        |
+| 4          |  Spline       | 3d elements for websites                          | https://spline.design                        |
 | 5          |  NVIDIA       | FREE COURSE                                       | https://www.nvidia.com/en-in/training/online/|
 | 6          |  PY - ML      | UDEMY FREE COURSE                                 | https://shorturl.at/7t5Ms                    |
-| 7          |               |                 |                        |
-| 8          |               |                 |                        |
-| 9          |               |                 |                        |
-| 10         |               |                 |                        |
-| 11         |               |                 |                        |
-| 12         |               |                 |                        |
-| 13         |               |                 |                        |
-| 14         |               |                 |                        |
-| 15         |               |                 |                        |
-| 16         |               |                 |                        |
-| 17         |               |                 |                        |
-| 18         |               |                 |                        |
+| 7          |  ML           | coursera                                          | https://shorturl.at/UFAPg                    |
+| 8          |  DL           | coursera                                          | https://www.coursera.org/specializations/deep-learning|
+| 9          |  AI           | elements of ai                                    | https://www.elementsofai.com/                       |
+| 10         |  PHOTON            |  IMAGE GEN               |                        |
+| 11         |  RAY2             |   VIDEO GEN              |                        |
+| 12         |  DEEPMIND             |                 |                        |
+| 13         |  AI FUTURE FUND             |                 |                        |
+| 14         |  N8N             |                 |                        |
+| 15         |  SHOPIFY             | CREATE DROPSHIPPING STORE                |                        |
+| 16         |  KALODATA             | WINNING PRODUCTS TO SELL ON SHOPIFY                |                        |
+| 17         |  CREATIFY             | AI GENERAYED VIDEO ADDS                |                        |
+| 18         |  ELEVENLABS             | AI GENERATED VOICE OVERS                 |                        |
 | 19         |               |                 |                        |
 | 20         |               |                 |                        |
 | 21         |               |                 |                        |
