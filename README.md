@@ -17,8 +17,8 @@ This table is designed to list tools along with their corresponding fields and l
 | 7          |  ML                  | coursera                                          | https://shorturl.at/UFAPg                    |
 | 8          |  DL                  | coursera                                          | https://www.coursera.org/specializations/deep-learning|
 | 9          |  AI                  | elements of ai                                    | https://www.elementsofai.com/                       |
-| 10         |  PHOTON              |  IMAGE GEN               |                        |
-| 11         |  RAY2                |   VIDEO GEN              |                        |
+| 10         |  PHOTON              | IMAGE GENERATOR                                   |                        |
+| 11         |  RAY2                | VIDEO GENERATOR                                   |                        |
 | 12         |  DEEPMIND            |                 |                        |
 | 13         |  AI FUTURE FUND      |                 |                        |
 | 14         |  N8N                 |                 |                        |
